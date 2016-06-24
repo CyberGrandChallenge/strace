@@ -1,0 +1,13 @@
+strace-cgc (4.5.20-9735-cfe-rc5) UNRELEASED; urgency=low
+
+  * build
+  * build
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Tue, 17 May 2016 14:12:10 +0000
+
+strace-cgc (4.5.20-100) precise; urgency=low
+
+  * add support for CGCOS binaries
+
+ -- Jason L. Wright <jason@thought.net>  Mon, 17 Mar 2014 11:59:32 -0600
